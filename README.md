@@ -1,5 +1,5 @@
 # reddit-tui-colorscheme
-A collection of colorschemes for reddit-tui
+A collection of colorschemes for [MBtion's forked version of reddit-tui](https://github.com/mbti0n/reddit-tui).
 
 ## default
 ![Default theme](img/default.png)
